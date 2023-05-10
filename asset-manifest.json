@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meow-rodolex/static/css/main.b95d8404.css",
+    "main.js": "/meow-rodolex/static/js/main.56783b71.js",
+    "static/js/787.2e06231d.chunk.js": "/meow-rodolex/static/js/787.2e06231d.chunk.js",
+    "index.html": "/meow-rodolex/index.html",
+    "main.b95d8404.css.map": "/meow-rodolex/static/css/main.b95d8404.css.map",
+    "main.56783b71.js.map": "/meow-rodolex/static/js/main.56783b71.js.map",
+    "787.2e06231d.chunk.js.map": "/meow-rodolex/static/js/787.2e06231d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b95d8404.css",
+    "static/js/main.56783b71.js"
+  ]
+}
