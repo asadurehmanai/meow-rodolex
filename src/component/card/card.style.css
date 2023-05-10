@@ -1,0 +1,21 @@
+.card{
+    display: flex;
+    background-color: white;
+    gap: 10px;
+    padding: 0 20px;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 0 2px lightgray;
+    max-width: 350px;
+    width: 100%;
+}
+
+.card img{
+    width: 100px;
+    height: auto;
+}
+
+.card > div{
+    flex: 2;
+    text-align: left;
+}
